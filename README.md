@@ -5,9 +5,9 @@
 # 💫 About Me:
 🔭 I’m currently a student studying frontend development.<br><br>👯 I’m looking to collaborate on open-source projects related to web development or frontend frameworks/libraries.<br><br>🤝 I’m looking for help with mastering advanced CSS techniques and optimizing frontend performance.<br><br>🌱 I’m currently learning React.js and improving my JavaScript skills.<br><br>💬 Ask me about my experience with HTML, CSS, JavaScript, or any frontend-related topics.<br><br>⚡ Fun fact: I love experimenting with different CSS animations and enjoy creating visually appealing user interfaces.<br><br>👨‍💻 All of my projects are available at [https://vishwas554.github.io/portfolio/](https://vishwas554.github.io/portfolio/)
 
-<br><br>📫 How to reach me **vishwa05054@gmail.com**
+📫 How to reach me **vishwa05054@gmail.com**
 
-<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1dUUbJDwkiEgzZCv0HahJ8-v7zAOdCRpz/view](https://drive.google.com/file/d/1dUUbJDwkiEgzZCv0HahJ8-v7zAOdCRpz/view)
+📄 Know about my experiences [https://drive.google.com/file/d/1dUUbJDwkiEgzZCv0HahJ8-v7zAOdCRpz/view](https://drive.google.com/file/d/1dUUbJDwkiEgzZCv0HahJ8-v7zAOdCRpz/view)
 
 
 ## 🌐 Socials:
