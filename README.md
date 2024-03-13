@@ -12,10 +12,10 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishwa-s-b922b2242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwa-s-b922b2242/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vishwa05054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vishwa05054" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vishwa05054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vishwa05054" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vishwa05054/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vishwa05054/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishwa-s-b922b2242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwa-s-b922b2242" height="30" width="40" /></a>
+<a href="https://kaggle.com/vishwa05054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishwa05054" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishwa05054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishwa05054" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishwa05054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishwa05054" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
