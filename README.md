@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Vishwa S</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 # 💫 About Me:
 🔭 I’m currently a student studying frontend development.<br><br>👯 I’m looking to collaborate on open-source projects related to web development or frontend frameworks/libraries.<br><br>🤝 I’m looking for help with mastering advanced CSS techniques and optimizing frontend performance.<br><br>🌱 I’m currently learning React.js and improving my JavaScript skills.<br><br>💬 Ask me about my experience with HTML, CSS, JavaScript, or any frontend-related topics.<br><br>⚡ Fun fact: I love experimenting with different CSS animations and enjoy creating visually appealing user interfaces.
 
