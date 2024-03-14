@@ -35,5 +35,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-[![](https://visitcount.itsvg.in/api?id=VishwaS554&icon=4&color=3)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwas554&label=Profile%20views&color=0e75b6&style=flat" alt="vishwas554" /> </p>
 
